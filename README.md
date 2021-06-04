@@ -1,2 +1,2 @@
 # React-02
-Component de function
+Functional Component
